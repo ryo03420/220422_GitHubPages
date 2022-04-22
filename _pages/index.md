@@ -6,7 +6,7 @@ permalink: /
 
 # 美味しかったお店
 
-##　[QUINTOCANTO](http://www.quinto-canto.com/)
+## [QUINTOCANTO](http://www.quinto-canto.com/)
 
 北新地駅から徒歩１３分の場所にあるイタリア料理の名店です. 
 月替わりのコース制で、私が４月にランチで足を運んだ際はイカ墨パスタと仔羊のローストが絶品でした. 
